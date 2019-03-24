@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "apis": "^0.1.2",
+    "google": "^2.1.0",
+    "googleapis": "^37.1.0",
+    "require": "^2.4.20",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naman",
+  "license": "ISC"
+}
